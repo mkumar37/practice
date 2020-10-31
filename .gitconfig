@@ -1,0 +1,6 @@
+[core] editor = notepad++.exe -multiInst -nosession
+[user]
+	name = m kumar
+	email = m.kumar.tarining
+[core]
+	editor = touch -w
